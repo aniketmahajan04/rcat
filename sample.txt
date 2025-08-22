@@ -1,0 +1,1 @@
+This is sample file that used in developement in rcat tool.
