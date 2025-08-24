@@ -7,6 +7,7 @@ use std::io::Write;
 use std::process;
 
 fn main() {
+    println!("Hello from windsurf");
     let args: Vec<String> = env::args().collect();
 
     if args.len() < 2 {
