@@ -8,6 +8,7 @@ use std::process;
 
 fn main() {
     println!("Hello from windsurf");
+    println!("Second hello from windsurf");
     let args: Vec<String> = env::args().collect();
 
     if args.len() < 2 {
